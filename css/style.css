@@ -1,0 +1,369 @@
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Poppins', sans-serif;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+/* Global css start*/
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.row{
+	width: 100%;
+	float: left;
+}
+.col-4{
+	width: 33.33%;
+	float: left;
+}
+.col-6{
+	width: 50%;
+	float: left;
+}
+col-12{
+	width: 100%;
+	float: left;
+}
+/* Global css end*/
+
+.header{
+	width: 100%;
+	padding: 10px 0px;
+	float: left;
+	position: fixed;
+	top: 0px;
+	background: #DE6C06;
+
+}
+.header:after{
+	content: '';
+	position: absolute;
+	z-index: -2;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+.nav-bar{
+	width: 100%;
+	float: left;
+	text-align: right;
+}
+.nav-bar li{
+	list-style: none;
+	display: inline-block;
+
+
+}
+.nav-bar li a{
+	display: block;
+	font-size: 14px;
+	font-weight: 500;
+	text-transform: capitalize;
+	margin: 10px 10px 0px;
+	color: #ffffff;
+}
+.nav-bar li a:hover{
+	color: #0C66FF;
+	transform: scale(1.1);
+	transition: 1s;
+}
+.banner{
+	width: 100%;
+	float: left;
+	margin-top: 60px;
+	padding: 80px 0px;
+	text-align: center;
+}
+.banner{
+	background: url('../Images/bg.jpg') no-repeat;
+	background-size: cover;
+	height: auto;
+}
+.banner h1{
+	font-size: 60px;
+	line-height: 1.2em;
+	font-weight: 700;
+	color: #ffffff;
+	margin: 0px 0px 10px;
+}
+.banner h1 span{
+	color: #0C66FF;
+}
+.banner p{
+	font-size: 14px;
+	line-height: 24px;
+	color: #ffffff;
+	margin: 0px 0px 10px;
+}
+.banner img{
+	width: 70%;
+}
+/* team start here*/
+.team{
+	width: 100%;
+}
+.myteam{
+	width: 100%;
+	display: flex;
+}
+.tmimg{
+	width: 50%;
+}
+.team-img{
+	max-width: 100%;
+	padding: 80px 20px 80px 0px;
+}
+.tmtext{
+	width: 50%;
+	padding: 80px 20px;
+}
+.tmtext h1{
+	font-size: 45px;
+	line-height: 1.2em;
+	font-weight: 700;
+	color: #0F2656;
+	margin: 0px 0px 20px;
+	text-transform: capitalize;
+	padding: 0px 0px 0px 20px;
+}
+.tmtext p{
+	font-size: 14px;
+	line-height: 1.9em;
+	color: #0F2656;
+	margin: 0px 0px 20px;
+	padding: 0px 0px 20px 20px;
+}
+.tmtext .tmbtn a{
+	font-size: 16px;
+	line-height: 1.7em;
+	font-weight: 500;
+	color: #ffffff;
+	background: #fb5200;
+	padding: 20px 35px;
+	margin: 0px 0px 0px 20px;
+	border-radius: 8px;
+}
+.tmtext .tmbtn a:hover{
+	background: #4b4040;
+	color: #ffffff;
+	transition: 1s;
+}
+
+/* team end here*/
+
+
+.successfully{
+	width: 100%;
+	float: left;
+	padding: 10px 0px 50px;
+}
+.left-text{
+	width: 100%;
+	float: left;
+	text-align: right;
+}
+.right-text{
+	width: 100%;
+	float: left;
+}
+.left-text h1{
+	font-size: 60px;
+	line-height: 70px;
+	font-weight: 700;
+	color: #F15767;
+	margin: 0px 20px 0px 0px;
+}
+.left-text p{
+	font-size: 14px;
+	line-height: 24px;
+	color: #0F2656;
+	margin: 0px 20px 60px 0px;
+}
+.right-text h1{
+	font-size: 60px;
+	line-height: 70px;
+	font-weight: 700;
+	color: #0F2656;
+	margin: 0px 0px 60px 20px;
+}
+.feature{
+	width: 100%;
+	float: left;
+	padding: 0px 0px 80px;
+}
+.inner-feature{
+	width: 72%;
+	margin: 0px 20px;
+	float: left;
+	padding: 60px 40px;
+	border-radius: 10px;
+}
+.inner-feature:hover{
+	transform: scale(1.1);
+	transition: 1s;
+}
+.inner-feature img{
+	width: 100%;
+	height: 230px;
+	margin: 0px 0px 10px;
+} 
+.inner-feature h4{
+	font-size: 22px;
+	line-height: 32px;
+	color: #0F2656;
+	margin: 0px 0px 10px ;
+}
+.inner-feature p{
+	font-size: 14px;
+	line-height: 24px;
+	color: #0F2656;
+	margin: 0px 0px 10px;
+}
+.bg1{
+	background: #FDEBED;
+}
+.bg2{
+	background: #EBF9F4;
+}
+.bg3{
+	background: #c0d5f7;
+}
+/* price start here */
+
+.sectittle {
+    text-align: center;
+	margin-bottom:30px;
+}
+
+.sectittle h1{
+    font-size: 60px;
+    margin-bottom: 10px;
+	padding-bottom:20px;
+	color: #0F2656;
+}
+.sectittle p {
+	width: 50%;
+	margin:auto;
+	line-height:1.9em;
+	font-size:14px;
+	color:#0F2656;
+}
+.postwrepper {
+    overflow: hidden;
+}
+.singlepost {
+    width: 30%;
+    overflow: hidden;
+    float: left;
+	margin-right:35px;
+}
+.singletlabe:hover{
+	transform: scale(1.1);
+	transition: 1s;
+	background: #eeeeee;
+}
+.singlepost:last-child{
+	margin-right:0px;
+}
+
+.singlepost img{
+	
+	width:100%;
+	height:200px;
+	padding-right: 20px;
+}
+
+.singletlabe {
+    width: 320px;
+    overflow: hidden;
+    float: left;
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+	padding: 15px;
+	margin:0px 40px 80px 0px;
+	box-shadow: 0px 0px 9px 2px #cecece;
+}
+.singletlabe:last-child{
+	margin-right:0px;
+}
+.singletlabe h3{
+	font-size:30px;
+	color: #0F2656;
+}
+.singletlabe h1{
+	font-size:40px;
+	font-weight:700;
+	color: #0F2656;
+	font-family:arial black;
+	margin:8px 0px;
+}
+.singletlabe h1 span{
+	font-size:30px;
+	margin-left:10px;
+	font-weight:500 !important;
+
+}
+.singletlabe ul{
+	list-style:none;
+	
+}
+.singletlabe ul li{
+	line-height:40px;
+	color: #0F2656;
+}
+.singletlabe ul li i{
+	font-size:14px;
+	color:#fb5200;
+	padding-right: 10px;
+}
+button.tblestartbtn {
+    background: #fb5200;
+    color: white;
+    border: none;
+	margin-top:15px;
+    padding: 15px 30px;
+    border-radius: 8px;
+	font-weight:600;
+	font-size:15px;
+}
+button.tblestartbtn:hover{
+	color: white;
+	background:#333;
+	cursor:pointer;
+	transition: 1s;
+}
+
+
+/* price end here */
+
+.footer{
+	width: 100%;
+	float: left;
+	padding: 20px 0px;
+	background: #0C66FF;
+	text-align: center;
+}
+.footer p{
+	font-size: 14px;
+	line-height: 24px;
+	color: #f0f0f0;
+}
+.footer p strong{
+	font-weight: 600;
+}

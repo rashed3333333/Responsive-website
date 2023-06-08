@@ -1,0 +1,693 @@
+/* phone width 279 to 320px*/
+@media (min-width: 279px) and (max-width: 320px) {
+	/*css start*/
+	.header{
+		text-align: center;
+	}
+	.container{
+		width: 100%;
+		margin: 0px auto;
+	}
+	.col-6{
+		width: 100%;
+		float: left;
+	}
+	.col-4{
+	width: 100%;
+	float: left;
+	}
+	.header .logo{
+		display: block;
+		margin-left: 40%;
+	}
+	.nav-bar{
+		text-align: center;
+	}
+	.nav-bar li a{
+		font-size: 10px;
+	}
+	.banner{
+		padding: 40px 0px;
+	}
+	.banner h1{
+		font-size: 26px;
+		line-height: 1.2em;
+	}
+	.banner p{
+		font-size: 10px;
+		line-height: 1.7em;
+	}
+	.banner img{
+		width: 90%;
+	}
+
+	.myteam{
+	width: 100%;
+	display: block;
+}
+.tmimg{
+	width: 100%;
+}
+.team-img{
+	max-width: 90%;
+	padding: 20px 20px;
+}
+.tmtext{
+	width: 100%;
+	padding: 20px 0px;
+}
+.tmtext h1{
+	font-size: 26px;
+	line-height: 1.2em;
+}
+.tmtext p{
+	font-size: 10px;
+	line-height: 1.7em;
+}
+.tmtext .tmbtn a{
+	font-size: 12px;
+	line-height: 1.7em;
+	background: #fb5200;
+	padding: 10px 15px;
+	margin: 0px 0px 0px 20px;
+	border-radius: 4px;
+}
+
+	.successfully{
+	width: 100%;
+	padding: 10px 0px 50px;
+	}
+	.left-text{
+	text-align: left;
+	display: block;
+	}
+	.left-text h1{
+	font-size: 26px;
+	margin: 0px 0px 0px 20px;
+	}
+	.left-text p{
+	font-size: 10px;
+	line-height: 1.7em;
+	margin: 0px 0px 20px 20px;
+	}
+	.right-text{
+		display: block;
+	}
+	.right-text h1{
+	font-size: 20px;
+	line-height: 1.2em;
+	}
+	.inner-feature{
+	margin: 0px 15px 15px;
+	}
+	.inner-feature:hover{
+	transform: scale(1.2);
+	transition: 1s;
+}
+	.feature{
+	padding: 0px 0px 20px;
+	}
+/* price start here */
+.sectittle h1{
+    font-size: 26px;
+    padding-bottom:10px;
+}
+
+.sectittle p{
+	font-size:10px;
+}
+.singlepost {
+    width: 100%;
+    overflow: hidden;
+    padding: 20px;
+}
+
+
+.singlepost img{
+	
+	width:100%;
+	height:100px;
+	padding-right: 10px;
+}
+
+.singletlabe {
+    width: 100%;
+	margin:10px 10px 20px 10px;
+	padding: 10px;
+}
+.singletlabe h3{
+	font-size:24px;
+	color: #0F2656;
+}
+.singletlabe h1{
+	font-size:26px;
+	margin:8px 0px;
+}
+.singletlabe h1 span{
+	font-size:10px;
+	margin-left:10px;
+
+}
+	
+.singletlabe ul li{
+	line-height:40px;
+	color: #0F2656;
+}
+.singletlabe ul li i{
+	font-size:10px;
+	padding-right: 10px;
+}
+button.tblestartbtn {
+    background: #fb5200;
+    color: white;
+    border: none;
+	margin-top:10px;
+    padding: 10px 20px;
+    border-radius: 8px;
+	font-weight:600;
+	font-size:11px;
+}
+
+
+/* price end here */
+
+	/*css end*/
+}
+/* phone width 320 to 480px*/
+@media (min-width: 320px) and (max-width: 480px) {
+	/*css start*/
+	.header{
+		text-align: center;
+	}
+	.container{
+		width: 100%;
+		margin: 0px auto;
+	}
+	.col-6{
+		width: 100%;
+		float: left;
+	}
+	.col-4{
+	width: 100%;
+	float: left;
+	}
+	.header .logo{
+		display: block;
+		margin-left: 40%;
+	}
+	.nav-bar{
+		text-align: center;
+	}
+	.nav-bar li a{
+		font-size: 12px;
+	}
+	.banner{
+		padding: 40px 0px;
+		margin-top: 80px;
+
+	}
+	.banner h1{
+		font-size: 28px;
+		line-height: 1.2em;
+	}
+	.banner p{
+		font-size: 12px;
+		line-height: 1.7em;
+	}
+	.banner img{
+		width: 80%;
+	}
+		.myteam{
+	width: 100%;
+	display: block;
+}
+.tmimg{
+	width: 100%;
+}
+.team-img{
+	max-width: 90%;
+	padding: 20px 20px;
+}
+.tmtext{
+	width: 100%;
+	padding: 20px 0px;
+}
+.tmtext h1{
+	font-size: 28px;
+	line-height: 1.2em;
+}
+.tmtext p{
+	font-size: 12px;
+	line-height: 1.7em;
+}
+.tmtext .tmbtn a{
+	font-size: 13px;
+	line-height: 1.7em;
+	background: #fb5200;
+	padding: 10px 15px;
+	margin: 0px 0px 0px 20px;
+	border-radius: 4px;
+}
+	.successfully{
+	width: 100%;
+	padding: 10px 0px 50px;
+	}
+	.left-text{
+	text-align: left;
+	}
+	.left-text h1{
+	font-size: 28px;
+	margin: 0px 0px 0px 20px;
+	}
+	.left-text p{
+	font-size: 12px;
+	line-height: 1.7em;
+	margin: 0px 0px 20px 20px;
+	}
+	.right-text h1{
+	font-size: 22px;
+	line-height: 1.2em;
+	}
+	.inner-feature{
+	margin: 0px 15px 15px;
+	}
+	.inner-feature:hover{
+	transform: scale(1.2);
+	transition: 1s;
+}
+	.feature{
+	padding: 0px 0px 20px;
+	}
+	/* price start here */
+.sectittle h1{
+    font-size: 28px;
+    padding-bottom:10px;
+}
+
+.sectittle p{
+	font-size:11px;
+}
+.singlepost {
+    width: 100%;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.singlepost img{
+	
+	width:100%;
+	height:100px;
+	padding-right: 10px;
+}
+
+.singletlabe {
+    width: 100%;
+	margin:10px 10px 20px 10px;
+	padding: 10px;
+}
+.singletlabe h3{
+	font-size:26px;
+	color: #0F2656;
+}
+.singletlabe h1{
+	font-size:28px;
+	margin:8px 0px;
+}
+.singletlabe h1 span{
+	font-size:11px;
+	margin-left:10px;
+
+}
+	
+.singletlabe ul li{
+	line-height:40px;
+	color: #0F2656;
+}
+.singletlabe ul li i{
+	font-size:11px;
+	padding-right: 10px;
+}
+button.tblestartbtn {
+    background: #fb5200;
+    color: white;
+    border: none;
+	margin-top:10px;
+    padding: 10px 20px;
+    border-radius: 8px;
+	font-weight:600;
+	font-size:12px;
+}
+
+
+/* price end here */
+
+	/*css end*/
+}
+/* phone width 481 to 767px*/
+@media (min-width: 481px) and (max-width: 767px) {
+	/*css start*/
+	.header{
+		text-align: center;
+	}
+	.container{
+		width: 100%;
+		margin: 0px auto;
+	}
+	.col-6{
+		width: 100%;
+		float: left;
+	}
+	.col-4{
+	width: 100%;
+	float: left;
+	}
+	.header .logo{
+		display: block;
+		margin-left: 40%;
+	}
+	.nav-bar{
+		text-align: center;
+	}
+	.nav-bar li a{
+		font-size: 13px;
+	}
+	.banner{
+		padding: 40px 0px;
+		margin-top: 80px;
+	}
+	.banner h1{
+		font-size: 30px;
+		line-height: 1.2em;
+	}
+	.banner p{
+		font-size: 13px;
+		line-height: 1.7em;
+	}
+	.banner img{
+		width: 80%;
+	}
+	.myteam{
+	width: 100%;
+	display: block;
+}
+.tmimg{
+	width: 100%;
+}
+.team-img{
+	max-width: 90%;
+	padding: 20px 20px;
+}
+.tmtext{
+	width: 100%;
+	padding: 20px 0px;
+}
+.tmtext h1{
+	font-size: 30px;
+	line-height: 1.2em;
+}
+.tmtext p{
+	font-size: 13px;
+	line-height: 1.7em;
+}
+.tmtext .tmbtn a{
+	font-size: 14px;
+	line-height: 1.7em;
+	background: #fb5200;
+	padding: 10px 15px;
+	margin: 0px 0px 0px 20px;
+	border-radius: 4px;
+}
+
+	.successfully{
+	width: 100%;
+	padding: 10px 0px 50px;
+	}
+	.left-text{
+	text-align: left;
+	}
+	.left-text h1{
+	font-size: 28px;
+	margin: 0px 0px 0px 20px;
+	}
+	.left-text p{
+	font-size: 13px;
+	line-height: 1.7em;
+	margin: 0px 0px 20px 20px;
+	}
+	.right-text h1{
+	font-size: 24px;
+	line-height: 1.2em;
+	}
+	.inner-feature{
+	margin: 0px 15px 15px;
+	}
+	.inner-feature:hover{
+	transform: scale(1.2);
+	transition: 1s;
+}
+	.feature{
+	padding: 0px 0px 20px;
+	}
+		/* price start here */
+.sectittle h1{
+    font-size: 30px;
+    padding-bottom:10px;
+}
+
+.sectittle p{
+	font-size:12px;
+}
+.singlepost {
+    width: 100%;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.singlepost img{
+	
+	width:100%;
+	height:100px;
+	padding-right: 10px;
+}
+
+.singletlabe {
+    width: 100%;
+	margin:10px 10px 20px 10px;
+	padding: 10px;
+}
+.singletlabe h3{
+	font-size:28px;
+	color: #0F2656;
+}
+.singletlabe h1{
+	font-size:30px;
+	margin:8px 0px;
+}
+.singletlabe h1 span{
+	font-size:12px;
+	margin-left:10px;
+
+}
+	
+.singletlabe ul li{
+	line-height:40px;
+	color: #0F2656;
+}
+.singletlabe ul li i{
+	font-size:12px;
+	padding-right: 10px;
+}
+button.tblestartbtn {
+    background: #fb5200;
+    color: white;
+    border: none;
+	margin-top:10px;
+    padding: 10px 20px;
+    border-radius: 8px;
+	font-weight:600;
+	font-size:13px;
+}
+
+
+/* price end here */
+
+	/*css end*/
+}
+/* phone width 768px to 1024px*/
+@media (min-width: 768px) and (max-width: 1024px) {
+	/*css start*/
+	.header{
+		text-align: center;
+	}
+	.container{
+		width: 100%;
+		margin: 0px auto;
+	}
+	.col-6{
+		width: 100%;
+		float: left;
+	}
+	.col-4{
+	width: 100%;
+	float: left;
+	}
+	.header .logo{
+		display: block;
+		margin-left: 40%;
+	}
+	.nav-bar{
+		text-align: center;
+	}
+	.nav-bar li a{
+		font-size: 12px;
+	}
+	.banner{
+		padding: 40px 0px;
+		margin-top: 80px;
+		
+	}
+	.banner h1{
+		font-size: 32px;
+		line-height: 1.2em;
+	}
+	.banner p{
+		font-size: 14px;
+		line-height: 1.7em;
+	}
+	.banner img{
+		width: 80%;
+	}
+	.myteam{
+	width: 100%;
+	display: block;
+}
+.tmimg{
+	width: 100%;
+}
+.team-img{
+	max-width: 90%;
+	padding: 20px 20px;
+}
+.tmtext{
+	width: 100%;
+	padding: 20px 0px;
+}
+.tmtext h1{
+	font-size: 30px;
+	line-height: 1.2em;
+}
+.tmtext p{
+	font-size: 14px;
+	line-height: 1.7em;
+}
+.tmtext .tmbtn a{
+	font-size: 16px;
+	line-height: 1.7em;
+	background: #fb5200;
+	padding: 10px 15px;
+	margin: 0px 0px 0px 20px;
+	border-radius: 4px;
+}
+
+	.successfully{
+	width: 100%;
+	padding: 10px 0px 50px;
+	}
+	.col-6 {
+    width: 50%;
+    float: left;
+	}
+	.left-text{
+	text-align: left;
+	}
+	.left-text h1{
+	font-size: 28px;
+	margin: 0px 20px 0px 20px;
+	text-align: right;
+	}
+	.left-text p{
+	font-size: 12px;
+	line-height: 1.7em;
+	margin: 0px 20px 0px 20px;
+	text-align: right;
+	}
+	.right-text h1{
+	font-size: 28px;
+    line-height: 1.2em;
+    padding: 30px;
+	}
+	.inner-feature{
+	margin: 0px 15px 15px;
+	}
+	.inner-feature:hover{
+	transform: scale(1.2);
+	transition: 1s;
+}
+	.feature{
+	padding: 0px 0px 20px;
+	}
+			/* price start here */
+.sectittle h1{
+    font-size: 32px;
+    padding-bottom:10px;
+}
+
+.sectittle p{
+	font-size:13px;
+}
+.singlepost {
+    width: 100%;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.singlepost img{
+	
+	width:100%;
+	height:100px;
+	padding-right: 10px;
+}
+
+.singletlabe {
+    width: 100%;
+	margin:10px 10px 20px 10px;
+	padding: 10px;
+}
+.singletlabe h3{
+	font-size:30px;
+	color: #0F2656;
+}
+.singletlabe h1{
+	font-size:32px;
+	margin:8px 0px;
+}
+.singletlabe h1 span{
+	font-size:13px;
+	margin-left:10px;
+
+}
+	
+.singletlabe ul li{
+	line-height:40px;
+	color: #0F2656;
+}
+.singletlabe ul li i{
+	font-size:13px;
+	padding-right: 10px;
+}
+button.tblestartbtn {
+    background: #fb5200;
+    color: white;
+    border: none;
+	margin-top:10px;
+    padding: 10px 20px;
+    border-radius: 8px;
+	font-weight:600;
+	font-size:14px;
+}
+
+
+/* price end here */
+
+	/*css end*/
+}

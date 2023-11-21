@@ -291,6 +291,8 @@ col-12{
 }
 
 .singletlabe {
+    position: relative;
+    z-index: -10;
     width: 320px;
     overflow: hidden;
     float: left;
